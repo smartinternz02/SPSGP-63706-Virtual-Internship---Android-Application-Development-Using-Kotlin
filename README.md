@@ -9,10 +9,12 @@ Presenting the project  Grocery List to you!
 # Demonstration video:
 ![grocery app gifnew](https://user-images.githubusercontent.com/98542941/191750916-5afdc6aa-c10c-46ab-9e90-cc2059978e2a.gif)
 
-# Screenshots
-screenshots.![Screenshot_20220922_174513](https://user-images.githubusercontent.com/98542941/191751241-fbb6e62b-16ba-4651-ba4a-57ef78206b9d.png)
 
-![Screenshot_20220922_174548](https://user-images.githubusercontent.com/98542941/191751268-255d2c37-cc4a-435b-aed3-225effa70c32.png)
+
+# Screenshots
+
+![Slide1](https://user-images.githubusercontent.com/98542941/191864337-3c0b7f7b-da8d-4a19-a40c-0ce9aa6ec92d.jpg)
+
 
 
 - <b>Digital Grocery List</b> - As we can't remember everything, users frequently go to store & forget buying  things they want to buy. However, with the assistance of <b>GoStore</b> app, you can make a list of the groceries you intend to buy so that you don't forget anything.
